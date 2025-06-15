@@ -5,8 +5,8 @@ import os
 import requests
 
 # Config
-BUCKET_NAME = "ton-nom-de-bucket"
-WEBHOOK_MAKE_URL = "https://hook.integromat.com/TON_WEBHOOK_ID"
+BUCKET_NAME = "resumes-audio-ai-automeeting-50625"
+WEBHOOK_MAKE_URL = "https://hook.eu2.make.com/366zwi7iy1qik15ruatqalqdvwvovadw"
 
 # Authentification GCP
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "credentials.json"
